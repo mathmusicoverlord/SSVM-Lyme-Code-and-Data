@@ -1,9 +1,7 @@
-This directory contains the python scripts used to generate the results for the 
-manuscript: Biomarker Selection and Classification of LC-MS SerumLyme with SSVM
+This directory contains the python scripts used to generate the results for the manuscript: *Biomarker Selection and a Prospective Metabolite-based Machine Learning Diagnostic for Lyme Disease*
 
-  ___________
- //// Key \\\\
-****	   ****
+## Key
+
 + calcom directory
 	- Contains the calcom python library used to perform calculations and build models. Read the README in the calcom directory
 	  for instructions on how to install the library.
