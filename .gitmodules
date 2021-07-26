@@ -1,0 +1,3 @@
+[submodule "Scripts/calcom"]
+	path = Scripts/calcom
+	url = https://github.com/CSU-PAL-biology/calcom.git
