@@ -2,7 +2,7 @@ This directory contains the supplementary data for the mnuscript: *Biomarker Sel
 
 ## Key
 
-+ PeakTable_022315ELvsHC_afterfillpeaks_111819_imputation_normalization_results.csv:
++ PeakTable_022315ELvsHC_afterfillpeaks_111819_imputation_normalization_results.xlsx:
 	- Contains the results of normalization and imputation experiments on the training (old) lyme data.
 
 + PeakTable_022315ELvsHC_afterfillpeaks_111819_imputation_normalization_scores.xlsx
