@@ -1,8 +1,7 @@
-This directory contains the data for the 
-manuscript: Biomarker Selection and Classification of LC-MS SerumLyme with SSVM
-  ___________
- //// Key \\\\
-****	   ****
+This directory contains the data for the manuscript: *Biomarker Selection and a Prospective Metabolite-based Machine Learning Diagnostic for Lyme Disease*
+
+## Key
+
 + PeakTable_022315ELvsHC_afterfillpeaks_111819.csv:
 	- XCMS features for the training (old) serum samples
 	- 118 samples:
