@@ -1,8 +1,7 @@
-This directory contains the supplementary data for the 
-manuscript: Biomarker Selection and Classification of LC-MS Serum Lyme with SSVM
-  ___________
- //// Key \\\\
-****	   ****
+This directory contains the supplementary data for the mnuscript: *Biomarker Selection and a Prospective Metabolite-based achine Learning Diagnostic for Lyme Disease*
+
+## Key
+
 + PeakTable_022315ELvsHC_afterfillpeaks_111819_imputation_normalization_results.csv:
 	- Contains the results of normalization and imputation experiments on the training (old) lyme data.
 
