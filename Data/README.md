@@ -17,8 +17,8 @@ This directory contains the data for the manuscript: *Biomarker Selection and a 
 	- 118 samples:
 		* 40 Early Disseminated Lyme (EDL)​
 		* 40 Early Localized Lyme (ELL)​
-		* 30 Healthy Control Wormser (HCW)​
-		* 8 Healthy Hu (HCHU)
+		* 30 Healthy Control Wormser (HCW=HCE1)​
+		* 8 Healthy Hu (HCHU=HCE2)
 	- 42-dimensional feature vectors of intensities processed by Skyline.
 	  Training and Test serum data sets targeted in Skyline at the select features.
 
